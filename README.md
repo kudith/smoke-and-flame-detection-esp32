@@ -1,6 +1,6 @@
-# SmokeAndFlameDetection
+# Smoke And Flame Detection with ESP32
 
-This project is an IoT-based smoke and flame detection system using an Arduino-compatible microcontroller. The system detects smoke and flames using sensors and sends notifications via Telegram when thresholds are exceeded.
+This project is an IoT-based smoke and flame detection system using an ESP32 microcontroller. The system detects smoke and flames using sensors and sends notifications via Telegram when thresholds are exceeded.
 
 ## Features
 
@@ -12,7 +12,7 @@ This project is an IoT-based smoke and flame detection system using an Arduino-c
 
 ## Hardware Requirements
 
-- Arduino-compatible microcontroller (e.g., ESP32)
+- ESP32 microcontroller
 - MQ2 smoke sensor
 - Analog flame sensor
 - LED
